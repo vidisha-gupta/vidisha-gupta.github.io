@@ -38,3 +38,7 @@ a:hover, .word:hover {
 #name:hover {
     color: inherit;
 }
+
+.card {
+    min-height: 20rem;
+}
